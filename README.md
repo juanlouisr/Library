@@ -1,10 +1,10 @@
 ---
-description: My Collection of Books
+description: Segala isi buku dan permainan video yang sedang di kembangkan
 ---
 
 # Library
 
-## Getting Super Powers
+## Apanich
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -28,6 +28,6 @@ echo 'You got to trust me on this, I saved the world'
 {% page-ref page="motivational-words.md" %}
 
 {% hint style="info" %}
-Test Doang
+YOOOOOOOOOOOOOOWW
 {% endhint %}
 
